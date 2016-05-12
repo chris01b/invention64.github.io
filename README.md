@@ -1,2 +1,2 @@
-# CraigFox0.github.io
-Political Simulation Game
+# Invention64.github.io
+Political Simulation Game Clone
