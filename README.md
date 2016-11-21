@@ -1,2 +1,2 @@
 # Invention64.github.io
-Political Simulation Game Clone
+Don't Talk to Me or My Prof Ever Again
